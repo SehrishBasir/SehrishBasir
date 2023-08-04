@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SehrishBasir
-- 👀 I’m interested in machine learning and natural language processing
-- 🌱 I’m currently learning basics of both machine learning and natural language processing
-- 💞️ I’m looking to collaborate on ........
-- 📫 How to reach me sehrish.basir@usindh.edu.pk
+- 👀 I’m interested in exploring the power of computer science education
+- 🌱 I’m currently learning version control, coding, testing, and many things
+- 💞️ I’m looking to collaborate on nothing right now.
+- 📫 How to reach me sehrishbasir@vt.edu
 
 <!---
 SehrishBasir/SehrishBasir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
